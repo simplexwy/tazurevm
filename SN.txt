@@ -1,0 +1,2 @@
+Create VM with public ip
+NSG + Datadisk
